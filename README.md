@@ -19,11 +19,12 @@ You can add, mark as done, delete tasks, and save your list between sessions.
 ### 1. Download or clone the project:
 
 ``
-git clone https://github.com/<your‑username>/<your‑repo>.git
+git clone https://github.com/yassererrissoul/To-Do-List-Python-.git
 ``
 
 ``
-cd ... ``
+cd  To-Do-List-Python-
+``
 
 ## 📦 Installation Guide
 
@@ -38,7 +39,7 @@ cd ... ``
 4. Run the app:
 
 ```bash
-python "your_script_name.py"
+python "To-Do-List.py"
 ```
 
 For example:
